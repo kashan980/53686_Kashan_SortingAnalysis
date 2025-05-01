@@ -14,6 +14,7 @@ Clone this repository.
 Open the terminal/command prompt.
 
 Compile the program using:
+
 g++ main.cpp -o sorting_analysis
 
 Graph:
